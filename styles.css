@@ -1,0 +1,50 @@
+body {
+    font-family: "Trebuchet MS", "Arial", sans-serif;
+}
+
+.header, .footer {
+    padding-left: 10%;
+}
+
+.header {
+    margin-bottom: 35px;
+}
+
+h1 {
+    font-size: 1.4em;
+}
+
+ .background {
+     background: #6a8af1;
+     position: relative;
+     color: white;
+     margin-bottom: 70px;
+ }
+
+ .text {
+     width: 25%;
+     padding: 2% 0 2% 10%;
+ }
+
+ .text p {
+     line-height: 1.4em;
+ }
+
+img {
+    position: absolute;
+    width: 13%;
+    height: 120%;
+    right: 40%;
+    top: -10%;
+}
+
+.button {
+    width: 30%;
+    color: #6a8af1;
+    background-color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding: 3%;
+}
+
+
